@@ -23,6 +23,8 @@ Documenti condivisi
 
 ## Documenti condivisi
 
+- [Etherpad](#etherpad)
+
 #### Etherpad
 
 editing file in tempo reale
@@ -30,6 +32,8 @@ editing file in tempo reale
 [etherpad.org][etherpad.org]
 
 ## Fogli di calcolo
+
+- [Ethercalc](#ethercalc)
 
 #### Ethercalc 
 
@@ -41,29 +45,30 @@ simile a excel ma piu` rapido
 
 ## Conferenze virtuali
 
+- [Jitsi](#jitsi)
+
 #### Jitsi
 
-conference call
-
-condivisione schermo
-
-registrazione chiamate
-
-streaming eventi
-
-chiamate protette da password
-
-link personalizzati
+- conference call
+- condivisione schermo
+- registrazione chiamate
+- streaming eventi
+- chiamate protette da password
+- link personalizzati
 
 [jitsi.org][jitsi.org]
 
 ## Chiamate VoIP
+
+- [Mumble](#mumble)
 
 #### Mumble
 
 [mumble.info][mumble.info]
 
 ## Condivisione file
+
+- [Framadrop](#framadrop)
 
 #### Framadrop
 
@@ -72,6 +77,8 @@ file sharing
 [framadrop.org][framadrop.org]
 
 ## Condivisione testi
+
+- [Pastebin](#pastebin)
 
 #### Pastebin
 
@@ -83,15 +90,13 @@ utile per i programmatori
 
 ## Sondaggi ed Eventi
 
+- [FramaDate](#framadate)
+
 #### FramaDate
 
 create a poll or schedule an event
 
 [frama.date][frama.date]
-
-
-
-
 
 [pastebin.com]: <https://pastebin.com/>
 [framadrop.org]: <https://framadrop.org/>
