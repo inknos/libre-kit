@@ -10,6 +10,7 @@ Su mobile queste soluzioni non sono interamente supportate senza un'app tut
 | `write`               | `connect`                 | `share` |
 | :---:                 | :---:                     | :---:   |
 | `Documenti condivisi` | [`Videochiamate di gruppo`](#jitsi) | [`file`](#rufi)  |
+| :---:                 | :---:                     | :---:   |
 | `fogli`               | `Chiamate`                | `text`  |
 | [`calc`](#ethercalc)                | `games`                   | `polls` |
 
@@ -17,12 +18,11 @@ Su mobile queste soluzioni non sono interamente supportate senza un'app tut
 
 Documenti condivisi
 
+[CryptPad][cryptpad.fr]
 
 | [`CryptPad`][cryptpad.fr] | [`Rich Text`][cr-pad] | [`Code`][cr-code] |
 | [`Slide`][cr-slide] | [`Sheet`][cr-sheet] | [`Poll`][cr-poll] |
 | [`Kanban`][cr-kanban] | [`Whiteboard`][cr-whiteboard] | [`CryptDrive`][cr-drive] |
-
-[cryptpad.fr][cryptpad.fr]
 
 ### Etherpad
 
