@@ -7,12 +7,26 @@ Ognuna di queste soluzioni non necessita l'installazione di software sul proprio
 
 Su mobile queste soluzioni non sono interamente supportate senza un'app tut
 
-| `write`               | `connect`                 | `share` |
-| :---:                 | :---:                     | :---:   |
-| `Documenti condivisi` | [`Videochiamate di gruppo`](#jitsi) | [`file`](#rufi)  |
-| :---:                 | :---:                     | :---:   |
-| `fogli`               | `Chiamate`                | `text`  |
-| [`calc`](#ethercalc)                | `games`                   | `polls` |
+| [`Office suite`](#office-suite) | [`Conferenze virtuali`](#conferenze-virtuali) | [`Condivisione file`](#condivisione-file)  |
+| [`Documenti condivisi`](#documenti-condivisi) | [`Chiamate VoIP`](#chiamate-voip) | [`Condivisione testi`](#condivisione-testi)  |
+| [`Fogli di calcolo`](#fogli-di-calcolo) | `games` | [`Sondaggi ed Eventi`](#sondaggi-ed-eventi) |
+
+### Office suite
+
+### Documenti condivisi
+
+### Fogli di calcolo
+
+### Conferenze virtuali
+
+### Chiamate VoIP
+
+### Condivisione file
+
+### Condivisione testi
+
+### Sondaggi ed Eventi
+
 
 ### Cryptpad
 
