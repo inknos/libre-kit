@@ -15,41 +15,63 @@ Su mobile queste soluzioni non sono interamente supportate senza un'app tut
 
 
 ### Cryptpad
+
 Documenti condivisi
+
 [cryptpad.fr][cryptpad.fr]
 
 ### Etherpad
+
 editing file in tempo reale
+
 [etherpad.org][etherpad.org]
 
 ### Jitsi
+
 conference call
+
 condivisione schermo
+
 registrazione chiamate
+
 streaming eventi
+
 chiamate protette da password
+
 link personalizzati
+
 [jitsi.org][jitsi.org]
 
 ### Rufi
+
 file sharing
+
 [framadrop.org][framadrop.org]
 
 ### Pastebin
+
 incolla e condividi estratti testuali
+
 utile per i programmatori
+
 [pastebin.com][pastebin.com]
 
 ### Polls
+
 create a poll or schedule an event
+
 [frama.date][frama.date]
 
 ### Ethercalc 
+
 fogli di calcolo condivisi
+
 simile a excel ma piu` rapido
+
 [ethercalc.net][ethercalc.net]
 
 ### Mumble
+
 [mumble.info][mumble.info]
 
 [pastebin.com]: <https://pastebin.com/>
