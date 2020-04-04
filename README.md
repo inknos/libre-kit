@@ -1,5 +1,4 @@
-# libre-kit
-### strumenti di collaborazione online
+## strumenti di collaborazione online
 
 Strumenti di collaborazione dal codice libero e gratuiti per migliorare la produttivita` durante il lavoro da casa e mantenere il controllo totale dei propri dati e della privacy
 
@@ -11,24 +10,8 @@ Su mobile queste soluzioni non sono interamente supportate senza un'app tut
 | [`Documenti condivisi`](#documenti-condivisi) | [`Chiamate VoIP`](#chiamate-voip) | [`Condivisione testi`](#condivisione-testi)  |
 | [`Fogli di calcolo`](#fogli-di-calcolo) | `games` | [`Sondaggi ed Eventi`](#sondaggi-ed-eventi) |
 
-### Office suite
-
-### Documenti condivisi
-
-### Fogli di calcolo
-
-### Conferenze virtuali
-
-### Chiamate VoIP
-
-### Condivisione file
-
-### Condivisione testi
-
-### Sondaggi ed Eventi
-
-
-### Cryptpad
+## Office suite
+##### Cryptpad
 
 Documenti condivisi
 
@@ -38,13 +21,27 @@ Documenti condivisi
 | [`Slide`][cr-slide] | [`Sheet`][cr-sheet] | [`Poll`][cr-poll] |
 | [`Kanban`][cr-kanban] | [`Whiteboard`][cr-whiteboard] | [`CryptDrive`][cr-drive] |
 
-### Etherpad
+## Documenti condivisi
+
+#### Etherpad
 
 editing file in tempo reale
 
 [etherpad.org][etherpad.org]
 
-### Jitsi
+## Fogli di calcolo
+
+#### Ethercalc 
+
+fogli di calcolo condivisi
+
+simile a excel ma piu` rapido
+
+[ethercalc.net][ethercalc.net]
+
+## Conferenze virtuali
+
+#### Jitsi
 
 conference call
 
@@ -60,13 +57,23 @@ link personalizzati
 
 [jitsi.org][jitsi.org]
 
-### Rufi
+## Chiamate VoIP
+
+#### Mumble
+
+[mumble.info][mumble.info]
+
+## Condivisione file
+
+#### Framadrop
 
 file sharing
 
 [framadrop.org][framadrop.org]
 
-### Pastebin
+## Condivisione testi
+
+#### Pastebin
 
 incolla e condividi estratti testuali
 
@@ -74,23 +81,17 @@ utile per i programmatori
 
 [pastebin.com][pastebin.com]
 
-### Polls
+## Sondaggi ed Eventi
+
+#### FramaDate
 
 create a poll or schedule an event
 
 [frama.date][frama.date]
 
-### Ethercalc 
 
-fogli di calcolo condivisi
 
-simile a excel ma piu` rapido
 
-[ethercalc.net][ethercalc.net]
-
-### Mumble
-
-[mumble.info][mumble.info]
 
 [pastebin.com]: <https://pastebin.com/>
 [framadrop.org]: <https://framadrop.org/>
