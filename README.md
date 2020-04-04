@@ -16,7 +16,7 @@ Su mobile queste soluzioni non sono interamente supportate senza un'app tut
 ### Cryptpad
 
 Documenti condivisi
-
+| :---: | :---: | :---: |
 | [`CryptPad`][cryptpad.fr] | [`Rich Text`][cr-pad] | [`Code`][cr-code] |
 | [`Slide`][cr-slide] | [`Sheet`][cr-sheet] | [`Poll`][cr-poll] |
 | [`Kanban`][cr-kanban] | [`Whiteboard`][cr-whiteboard] | [`CryptDrive`][cr-drive] |
