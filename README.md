@@ -13,10 +13,13 @@ Su mobile queste soluzioni non sono interamente supportate senza un'app tut
 | `fogli`               | `Chiamate`                | `text`  |
 | [`calc`](#ethercalc)                | `games`                   | `polls` |
 
-
 ### Cryptpad
 
 Documenti condivisi
+
+| [`CryptPad`][cryptpad.fr] | [`Rich Text`][cr-pad] | [`Code`][cr-code] |
+| [`Slide`][cr-slide] | [`Sheet`][cr-sheet] | [`Poll`][cr-poll] |
+| [`Kanban`][cr-kanban] | [`Whiteboard`][cr-whiteboard] | [`CryptDrive`][cr-drive] |
 
 [cryptpad.fr][cryptpad.fr]
 
@@ -77,6 +80,15 @@ simile a excel ma piu` rapido
 [pastebin.com]: <https://pastebin.com/>
 [framadrop.org]: <https://framadrop.org/>
 [cryptpad.fr]: <https://cryptpad.fr/>
+[cr-pad]: <https://cryptpad.fr/pad/>
+[cr-code]: <https://cryptpad.fr/code/>
+[cr-slide]: <https://cryptpad.fr/slide/>
+[cr-sheet]: <https://cryptpad.fr/sheet/>
+[cr-poll]: <https://cryptpad.fr/poll/>
+[cr-kanban]: https://cryptpad.fr/kanban/>
+[cr-whiteboard]: <https://cryptpad.fr/whiteboard/>
+[cr-drive]: <https://cryptpad.fr/drive/>
+
 [jitsi.org]: <https://jitsi.org>
 [etherpad.org]: <https://etherpad.org/>
 [ethercalc.net]: <https://ethercalc.net/>
